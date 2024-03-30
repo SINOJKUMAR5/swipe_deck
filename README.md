@@ -1,4 +1,4 @@
-# Swipe Deck
+# Swipe dick
 
 A simple Flutter Package to Mimic iMessage Image Picker for Flutter
 
